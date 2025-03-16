@@ -8,9 +8,10 @@ Introduction to Python contains the assignment and project for each topic covere
 - Exceptions in Python
 - Capstone Project
 
-Assignments and Project for each lesson is contained in one Jupyter(.ipynb) notebook with each section clearly labelled.
+Assignments and Project for each lesson is contained in one Jupyter(.ipynb) notebook with each section clearly labeled.
 
 Each solution is associated with assigned tasks in the module lession.
 
 IDE used - VS Code
+
 Programming language - Python
