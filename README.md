@@ -3,7 +3,6 @@ Contains assignment and project for modules completed in the program. It include
 - Introduction to Python
 - Introduction to GenAI
 - Prompt Engineering
-- Generative AI with Azure Machine Learning.
 
 Each section will contain assignments as well as the associated projects and end-of- module capstone project.
 
